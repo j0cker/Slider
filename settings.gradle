@@ -1,0 +1,2 @@
+include ':app', ':slider'
+project(':slider').projectDir = new File('bannerslider')
